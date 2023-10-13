@@ -13,7 +13,8 @@ namespace Second_lesson_work_tpm
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world");
-            Point point = new Point { X = 12, Y = 23};
+            Point point = new Point { X = 12, Y = 23 };
+            Point3D point3D = new Point3D { X = 1, Y = 2, Z = 3 };
         }
     }
 }
