@@ -12,6 +12,7 @@ namespace Second_lesson_work_tpm
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world");
         }
     }
 }
